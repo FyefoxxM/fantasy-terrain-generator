@@ -339,4 +339,4 @@ MIT License - use however you want.
 ## Part of 30-for-30 Challenge
 
 Day 9 of building 30 developer tools in 30 days. Week 2 focus: Procedural Generation Toolkit for tabletop RPGs.
-Check out the [blog post(#https://jdookeran.medium.com/day-9-building-a-realistic-terrain-generator-69494320df0b)] where I dive into
+Check out the [blog post](https://jdookeran.medium.com/day-9-building-a-realistic-terrain-generator-69494320df0b) where I dive into this deeper.
